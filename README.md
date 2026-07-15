@@ -42,6 +42,29 @@ Gooner Archiver downloads and organizes publicly accessible pictures, videos, an
 - Display the complete release changelog before installing an update.
 - Keep yt-dlp current automatically in source installations.
 
+## Supported Sites
+
+Gooner Archiver currently supports public media from 47 sites:
+
+| | | |
+| --- | --- | --- |
+| CoomerFans | PimpBunny | LeakGallery |
+| XXBrits | Pornhub | ShesFreaky |
+| Thothub | SpankBang | XVideos |
+| xHamster | Eporner | HQPorner |
+| Beeg | SxyPrn | Motherless |
+| PornTrex | YouJizz | RedTube |
+| PornOne | YouPorn | Tube8 |
+| 3Movs | TXXX | PornDig |
+| CumLouder | XNXX | TNAFlix |
+| DrTuber | Nuvid | EMPFlix |
+| WhoresHub | MovieFap | Fux |
+| PornoTube | SunPorno | Rule34Video |
+| NonkTube | AlphaPorno | XPaja |
+| PornoCarioca | Pornolandia | XNalgas |
+| VJAV | SheeshFans | RedGifs |
+| SimpsHub | KamababaX | |
+
 ## Getting Started
 
 1. Download and run the latest installer from the [Releases page](https://github.com/ZoneJ561/Gooner-Archiver/releases/latest).
