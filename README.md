@@ -1,7 +1,7 @@
 # Gooner Archiver
 
 <p align="center">
-  <img src="logo.png" alt="Gooner Archiver logo" width="320">
+  <img src="logo.png" alt="Gooner Archiver logo" width="640">
 </p>
 
 **Download. Archive. Keep Forever.**
