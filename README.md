@@ -85,17 +85,7 @@ Gooner Archiver currently supports public media from 51 sites:
 | --- | --- |
 | Windows | Available |
 
-## Important Note
-
-Use Gooner Archiver only if you are an adult and have the legal right to save the content. Respect creators' rights, applicable law, site terms, and removal requests. The app does not log in, import cookies, bypass access controls, or bypass DRM.
-
 ## Project Updates And Support
 
 - Follow the project creator on Instagram: [@God1yNigga](https://instagram.com/god1ynigga)
 - Support development through Venmo: [venmo.com/godlynigga](https://venmo.com/godlynigga)
-
-## About This Repository
-
-This is the release page for Gooner Archiver. Downloadable installers and update files are published through [GitHub Releases](https://github.com/ZoneJ561/Gooner-Archiver/releases). The application source code and private build workflow are maintained separately in the private `Gooner-Archiver-Source` repository.
-
-This repository remains private during development. Nothing has been published yet.
