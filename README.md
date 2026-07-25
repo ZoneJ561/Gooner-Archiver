@@ -14,13 +14,14 @@
 
 Download the latest Windows installer from the [Releases page](https://github.com/ZoneJ561/Gooner-Archiver/releases/latest).
 
-Gooner Archiver downloads and organizes publicly accessible pictures, videos, and audio from supported creator and video pages. It includes a persistent queue, resumable downloads, searchable archive history, external download-manager URL exports, and automatic application updates.
+Gooner Archiver downloads and organizes publicly accessible pictures, videos, and audio from supported creator and video pages. It includes a persistent queue, resumable downloads, searchable archive history and maintenance, categorized failures, persistent settings, external download-manager URL exports, and automatic application updates.
 
 ## Features
 
 ### Media Downloads
 
 - Download individual public video pages, creator posts, and supported creator profiles.
+- Scan public Pornhub model, pornstar, user, and channel pages for videos and poster images.
 - Save pictures, videos, and audio into separate creator folders.
 - View per-file progress, transfer speed, size, and ETA.
 - Pause, resume, retry, cancel, remove, and reorder queued files.
@@ -41,10 +42,13 @@ Gooner Archiver downloads and organizes publicly accessible pictures, videos, an
 - Verify downloaded installers with SHA-256 before installation.
 - Display the complete release changelog before installing an update.
 - Keep yt-dlp current automatically in source installations.
+- Verify completed audio/video files with bundled FFprobe before archiving them.
+- Search and filter large queues by filename, creator, and download status.
+- Capture exportable diagnostics automatically if the interface stops responding.
 
 ## Supported Sites
 
-Gooner Archiver currently supports public media from 47 sites:
+Gooner Archiver currently supports public media from 51 sites:
 
 | | | |
 | --- | --- | --- |
@@ -63,7 +67,9 @@ Gooner Archiver currently supports public media from 47 sites:
 | NonkTube | AlphaPorno | XPaja |
 | PornoCarioca | Pornolandia | XNalgas |
 | VJAV | SheeshFans | RedGifs |
-| SimpsHub | KamababaX | |
+| SimpsHub | KamababaX | PornKnife |
+| GotAnyNudes | Thothub.vip | |
+| ViralXXXPorn | | |
 
 ## Getting Started
 
