@@ -48,7 +48,7 @@ Gooner Archiver downloads and organizes publicly accessible pictures, videos, an
 
 ## Supported Sites
 
-Gooner Archiver currently supports public media from 51 sites:
+Gooner Archiver currently supports public media from 60 sites:
 
 | | | |
 | --- | --- | --- |
@@ -69,7 +69,10 @@ Gooner Archiver currently supports public media from 51 sites:
 | VJAV | SheeshFans | RedGifs |
 | SimpsHub | KamababaX | PornKnife |
 | GotAnyNudes | Thothub.vip | |
-| ViralXXXPorn | | |
+| ViralXXXPorn | Iwara | ThisVid |
+| EroProfile | Thumbzilla | 4Tube |
+| PornFlip | LoveHomePorn | PornTop |
+| Erocast | | |
 
 ## Getting Started
 
