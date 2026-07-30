@@ -34,6 +34,8 @@ Gooner Archiver downloads and organizes publicly accessible pictures, videos, an
 - Search the archive by filename, creator, site, type, source URL, or local path.
 - Detect moved or missing archived files.
 - Export plain-text URL lists for IDM and JDownloader.
+- Load a `.txt` file containing multiple supported source URLs for one batch run.
+- Automatically clear successful queue rows after a run while retaining failed attempts.
 
 ### Updates
 
