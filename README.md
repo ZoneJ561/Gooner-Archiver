@@ -50,7 +50,7 @@ Gooner Archiver downloads and organizes publicly accessible pictures, videos, an
 
 ## Supported Sites
 
-Gooner Archiver currently supports public media from 70 sites:
+Gooner Archiver currently supports public media from 73 sites:
 
 | | | |
 | --- | --- | --- |
@@ -81,6 +81,8 @@ Gooner Archiver currently supports public media from 70 sites:
 | CamWhores.tv | | |
 | CamWhoresBay | MzansiXXX | |
 | LuxureTV | Heavy-R | |
+| Teenager365 | | |
+| ThePornJoy | CamGirlFap | |
 
 ## Getting Started
 
