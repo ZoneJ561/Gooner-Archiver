@@ -21,6 +21,7 @@ Gooner Archiver downloads and organizes publicly accessible pictures, videos, an
 ### Media Downloads
 
 - Download individual public video pages, creator posts, and supported creator profiles.
+- Scan PornDig public leak-collection pages for their original pictures and videos.
 - Scan public Pornhub model, pornstar, user, and channel pages for videos and poster images.
 - Save pictures, videos, and audio into separate creator folders.
 - View per-file progress, transfer speed, size, and ETA.
